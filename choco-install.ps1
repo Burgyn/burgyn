@@ -1,0 +1,1 @@
+choco install choco-packages.config -y
