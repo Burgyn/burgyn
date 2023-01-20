@@ -1,0 +1,104 @@
+{
+    "codespaces.accountProvider": "Microsoft",
+    "todo-tree.tree.showScanModeButton": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.associations": {
+        "*.yml": "azure-pipelines"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "angular.enable-experimental-ivy-prompt": false,
+    "[scss]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "snippets.snippetsLocation": "c:\\Users\\martiniak\\AppData\\Roaming\\Code\\User\\globalStorage\\tahabasri.snippets\\data.json",
+    "security.workspace.trust.untrustedFiles": "open",
+    "eslint.alwaysShowStatus": true,
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/docker/cli/master/cli/compose/schema/data/config_schema_v3.8.json": "docker-compose*.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": true,
+        "html": true
+    },
+    "editor.renderWhitespace": "all",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.stickyScroll.enabled": true,
+    "workbench.colorTheme": "Theme Flat",
+    "window.menuBarVisibility": "compact",
+    "vsicons.presets.hideExplorerArrows": true,
+    "outline.showArrays": false,
+    "outline.showBooleans": false,
+    "files.exclude": {
+        ".vs": true,
+        ".vscode": true,
+        "**/.config": true,
+        "**/.vs": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/StrykerOutput": true,
+        "**/TestResults": true,
+        "bin/**": true,
+        "obj": true,
+        "wwwroot/js": true,
+        "wwwroot/lib": true
+    },
+    "cSpell.userWords": [
+        "Antiforgery",
+        "Burgyn",
+        "hmac",
+        "HMACSHA",
+        "Mapster",
+        "Martiniak"
+    ],
+    "postfix.languages": [
+        "csharp",
+        "javascript",
+        "typescript",
+        "javascriptreact",
+        "typescriptreact"
+    ],
+    "cSpell.showAutocompleteSuggestions": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "editor.tabCompletion": "on",
+    "omnisharp.enableAsyncCompletion": true,
+    "omnisharp.enableImportCompletion": true,
+    "smartsemicolon.autoLineChange": false,
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.rulers": [
+        {
+            "column": 130,
+            "color": "#ff9900"
+          }
+    ],
+    "gitlens.codeLens.enabled": false,
+    "gitlens.showWelcomeOnInstall": false
+}
